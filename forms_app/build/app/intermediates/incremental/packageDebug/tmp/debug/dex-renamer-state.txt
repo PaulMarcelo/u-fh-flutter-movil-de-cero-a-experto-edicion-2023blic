@@ -1,0 +1,4 @@
+#Mon Jul 15 23:09:31 ECT 2024
+base.0=/Users/paul/Documentos/GITHUB/u-fh-flutter-movil-de-cero-a-experto-edicion-2023blic/forms_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
